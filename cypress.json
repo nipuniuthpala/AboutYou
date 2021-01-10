@@ -1,0 +1,10 @@
+{
+  "chromeWebSecurity": false,
+  "projectId": "kss15z",
+"modifyObstructiveCode":false,
+"pluginsFile":false,
+  "defaultCommandTimeout": 90000,
+  "requestTimeout": 90000
+
+
+}
